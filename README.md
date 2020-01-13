@@ -1,2 +1,2 @@
-# digizoo-ios
-all things iOS for the zoo
+# toucan-core
+iOS framework for the zoo
